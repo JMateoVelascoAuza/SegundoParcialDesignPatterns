@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a522d0b-f141-4199-ab90-11ca8a7797cb" name="Changes" comment="Primer Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ej3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ej3/INotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej3/INotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ej3/IPagina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej3/IPagina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ej3/IUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej3/IUser.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a522d0b-f141-4199-ab90-11ca8a7797cb" name="Changes" comment="segundo  Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +66,7 @@
       <workItem from="1678305850568" duration="381000" />
       <workItem from="1678306242754" duration="159000" />
       <workItem from="1678306411564" duration="305000" />
-      <workItem from="1678306849014" duration="3947000" />
+      <workItem from="1678306849014" duration="4536000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1678306936146</created>
@@ -102,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678315404663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="segundo  Commit">
+      <created>1678317135702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678317135702</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +112,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Primer Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit" />
+    <MESSAGE value="segundo  Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="segundo  Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
